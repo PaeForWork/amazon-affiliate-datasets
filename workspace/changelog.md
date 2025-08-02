@@ -1,9 +1,10 @@
-# v0.0.0 (2 Aug 2025) by Pisitchai S.
+# v0.0.1 (2 Aug 2025) by Pisitchai S.
 
 # create a new brance
 
 - public the "project/BA/Pisitchai"
 - import datasets into folder [datasets]
+- check null values in each dataframe
 
 =======================================================
 
