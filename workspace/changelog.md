@@ -10,6 +10,10 @@
 
 - install seaborn
 
+# ERD
+
+- add ERD from dbdiagram.io for better understanding the data-oriented
+
 =======================================================
 
 # v0.0.1 (2 Aug 2025) by Pisitchai S.
