@@ -1,3 +1,11 @@
+# v0.0.3 (7 Aug 2025) by Pisitchai S.
+
+# Confusion Martrix
+
+- create confusion matrix for all spreedsheets
+
+=======================================================
+
 # v0.0.2 (3 Aug 2025) by Pisitchai S.
 
 # Data Preparasion
